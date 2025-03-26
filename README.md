@@ -11,7 +11,7 @@ My background as a **Senior QA Automation Engineer** gives me a sharp eye for qu
   Java • Core Java • JavaScript • TypeScript • SQL • Spring Boot • Spring MVC • Spring Security • Spring Framework • React.js • Node.js
 
 - **Testing & Automation**  
-  Selenium • Selenium WebDriver • TestNG • JUnit • Cypress • Playwright • Appium • E2E Testing • Test Automation • Framework Design
+  Playwright • Selenium • Selenium WebDriver • TestNG • JUnit • Playwright • Appium • E2E Testing • Test Automation • Framework Design
 
 - **DevOps & Tools**  
   Git • Bitbucket • Jenkins • Docker • Gradle • Maven • Postman • Swagger API
